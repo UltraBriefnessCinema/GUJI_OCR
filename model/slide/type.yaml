@@ -1,0 +1,9 @@
+type: yolov8                 # 你的模型架构类型，如果你用的是v5则写 yolov5
+name: custom_ancient_yolov8_slide  # 内部索引名（不能和内置模型重名，随便起个英文名）
+display_name: 文字切割模型   # 在软件 UI 界面下拉框里显示的名称
+model_path: best.onnx        # ONNX 文件的路径（和yaml同级目录填文件名即可，或者填绝对路径）
+iou_threshold: 0.45          # NMS IOU 阈值，可自行调节
+conf_threshold: 0.25         # 置信度阈值，如果你发现漏检很多，可以调低到 0.15
+max_det: 300                 # 一张图最多检测多少个框，古籍字多的话可以调高到 1000
+classes:                     # 这里必须严格按照你训练时 datasets.yaml 里的类别顺序填写！
+  - ch
