@@ -1,0 +1,1 @@
+yolo export model=C:\Users\GaoChenye\Desktop\OCR_Ancient_Book\model\slide\best.pt format=onnx

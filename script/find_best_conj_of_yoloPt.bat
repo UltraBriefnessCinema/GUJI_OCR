@@ -1,0 +1,1 @@
+yolo detect val model="C:\Users\GaoChenye\Desktop\OCR_Ancient_Book\model\slide\best.pt" data="C:\Users\GaoChenye\Desktop\OCR_Ancient_Book\train_data\slide\data.yaml" split=val

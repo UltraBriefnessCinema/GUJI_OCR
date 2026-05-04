@@ -1,0 +1,823 @@
+{
+  "version": "4.0.0-beta.4",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3856.2413793103447,
+          589.6551724137931
+        ],
+        [
+          3887.275862068966,
+          3644.8275862068967
+        ],
+        [
+          4014.8620689655177,
+          3658.6206896551726
+        ],
+        [
+          3997.6206896551726,
+          586.2068965517242
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3712.8620689655177,
+          594.551724137931
+        ],
+        [
+          3743.896551724139,
+          3649.724137931035
+        ],
+        [
+          3871.4827586206907,
+          3663.5172413793102
+        ],
+        [
+          3854.2413793103456,
+          591.1034482758621
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3572.9310344827595,
+          592.551724137931
+        ],
+        [
+          3603.965517241381,
+          3647.7241379310344
+        ],
+        [
+          3731.5517241379325,
+          3661.51724137931
+        ],
+        [
+          3714.3103448275874,
+          589.1034482758621
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3443.344827586207,
+          600.896551724138
+        ],
+        [
+          3474.3793103448284,
+          3656.068965517241
+        ],
+        [
+          3601.96551724138,
+          3669.8620689655163
+        ],
+        [
+          3584.724137931035,
+          597.4482758620691
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3320.655172413793,
+          595.448275862069
+        ],
+        [
+          3351.6896551724144,
+          3650.620689655172
+        ],
+        [
+          3479.275862068966,
+          3664.4137931034475
+        ],
+        [
+          3462.034482758621,
+          592.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3191.068965517241,
+          586.5517241379312
+        ],
+        [
+          3207.9655172413795,
+          3648.275862068966
+        ],
+        [
+          3332.1034482758623,
+          3641.379310344828
+        ],
+        [
+          3332.448275862069,
+          583.1034482758622
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          3040.7931034482754,
+          591.4482758620693
+        ],
+        [
+          3057.689655172414,
+          3653.172413793104
+        ],
+        [
+          3181.8275862068967,
+          3646.275862068966
+        ],
+        [
+          3182.1724137931033,
+          588.0000000000003
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2914.6551724137926,
+          586.0000000000005
+        ],
+        [
+          2931.551724137931,
+          3647.7241379310353
+        ],
+        [
+          3055.689655172414,
+          3640.827586206897
+        ],
+        [
+          3056.0344827586205,
+          582.5517241379315
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2780.379310344828,
+          586.2068965517242
+        ],
+        [
+          2918.3103448275865,
+          589.6551724137931
+        ],
+        [
+          2921.7586206896553,
+          3651.724137931035
+        ],
+        [
+          2804.5172413793107,
+          3648.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2654.2413793103456,
+          584.2068965517242
+        ],
+        [
+          2792.172413793104,
+          587.6551724137931
+        ],
+        [
+          2795.620689655173,
+          3649.724137931035
+        ],
+        [
+          2678.3793103448284,
+          3646.275862068966
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2521.2068965517246,
+          589.1034482758621
+        ],
+        [
+          2659.1379310344832,
+          592.551724137931
+        ],
+        [
+          2662.586206896552,
+          3654.620689655173
+        ],
+        [
+          2545.3448275862074,
+          3651.172413793104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2398.5172413793107,
+          587.1034482758621
+        ],
+        [
+          2536.4482758620693,
+          590.551724137931
+        ],
+        [
+          2539.896551724138,
+          3652.620689655173
+        ],
+        [
+          2422.6551724137935,
+          3649.172413793104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2251.689655172414,
+          585.1034482758621
+        ],
+        [
+          2389.6206896551726,
+          588.551724137931
+        ],
+        [
+          2393.0689655172414,
+          3650.620689655173
+        ],
+        [
+          2275.8275862068967,
+          3647.172413793104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          2125.551724137931,
+          572.7586206896551
+        ],
+        [
+          2263.4827586206898,
+          576.2068965517241
+        ],
+        [
+          2266.9310344827586,
+          3638.2758620689665
+        ],
+        [
+          2149.689655172414,
+          3634.8275862068976
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1797.6206896551726,
+          637.9310344827587
+        ],
+        [
+          1945.8965517241381,
+          644.8275862068966
+        ],
+        [
+          1911.4137931034484,
+          3620.689655172414
+        ],
+        [
+          1749.344827586207,
+          3648.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1661.1379310344828,
+          625.5862068965519
+        ],
+        [
+          1809.4137931034484,
+          632.4827586206898
+        ],
+        [
+          1770.034482758621,
+          3658.6206896551726
+        ],
+        [
+          1618.3103448275865,
+          3655.1724137931037
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1510.8620689655172,
+          627.0344827586209
+        ],
+        [
+          1659.1379310344828,
+          633.9310344827588
+        ],
+        [
+          1619.7586206896553,
+          3660.0689655172423
+        ],
+        [
+          1468.034482758621,
+          3656.6206896551735
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1395.0689655172414,
+          621.5862068965521
+        ],
+        [
+          1543.344827586207,
+          628.48275862069
+        ],
+        [
+          1503.9655172413795,
+          3654.6206896551735
+        ],
+        [
+          1352.241379310345,
+          3651.1724137931046
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1251.6896551724135,
+          623.0344827586212
+        ],
+        [
+          1399.965517241379,
+          629.9310344827591
+        ],
+        [
+          1360.5862068965516,
+          3656.0689655172428
+        ],
+        [
+          1208.8620689655172,
+          3652.620689655174
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          984.1724137931028,
+          610.6896551724144
+        ],
+        [
+          1132.4482758620684,
+          617.5862068965523
+        ],
+        [
+          1093.068965517241,
+          3643.7241379310353
+        ],
+        [
+          941.3448275862065,
+          3640.2758620689665
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          856.2413793103448,
+          620.6896551724138
+        ],
+        [
+          983.8275862068964,
+          627.5862068965517
+        ],
+        [
+          949.3448275862069,
+          3648.2758620689656
+        ],
+        [
+          825.2068965517241,
+          3641.379310344828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          1114.8620689655172,
+          634.4827586206897
+        ],
+        [
+          1259.689655172414,
+          627.5862068965517
+        ],
+        [
+          1228.655172413793,
+          2365.5172413793107
+        ],
+        [
+          1097.6206896551726,
+          2358.6206896551726
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          723.2068965517241,
+          608.3448275862069
+        ],
+        [
+          850.7931034482757,
+          615.2413793103448
+        ],
+        [
+          816.3103448275862,
+          3635.931034482758
+        ],
+        [
+          692.1724137931034,
+          3629.0344827586205
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          579.8275862068964,
+          633.9310344827586
+        ],
+        [
+          707.413793103448,
+          640.8275862068965
+        ],
+        [
+          672.9310344827585,
+          3661.5172413793093
+        ],
+        [
+          548.7931034482757,
+          3654.6206896551716
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          457.1379310344827,
+          618.1379310344828
+        ],
+        [
+          584.7241379310343,
+          625.0344827586207
+        ],
+        [
+          550.2413793103448,
+          3645.7241379310335
+        ],
+        [
+          426.103448275862,
+          3638.827586206896
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          320.6551724137929,
+          609.2413793103449
+        ],
+        [
+          448.24137931034454,
+          616.1379310344828
+        ],
+        [
+          413.758620689655,
+          3636.827586206896
+        ],
+        [
+          289.6206896551722,
+          3629.931034482758
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          184.17241379310326,
+          603.7931034482759
+        ],
+        [
+          311.7586206896549,
+          610.6896551724138
+        ],
+        [
+          277.27586206896535,
+          3631.379310344827
+        ],
+        [
+          153.13793103448256,
+          3624.4827586206893
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "text",
+      "score": null,
+      "points": [
+        [
+          65.3061224489796,
+          630.6122448979592
+        ],
+        [
+          181.6326530612245,
+          634.6938775510204
+        ],
+        [
+          167.3469387755102,
+          2018.3673469387757
+        ],
+        [
+          44.89795918367347,
+          2030.6122448979593
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "020.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 4078
+}

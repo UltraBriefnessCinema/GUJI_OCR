@@ -1,0 +1,7 @@
+# data.yaml
+path: F:/03_code/OCR_Ancient_Book/train_data/text  # 数据集根目录 (必须用绝对路径，正斜杠)
+train: images/train
+val: images/train            # 暂时把训练集当验证集用，方便快速跑通
+
+nc: 6                        # 6 个类别
+names: ['text','subText','midText','ear','subText2','midSubText']              # 类别名叫 text

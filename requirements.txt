@@ -1,0 +1,9 @@
+PyQt5
+numpy
+opencv-python
+PyMuPDF
+ultralytics
+paddleocr
+wxPython
+Pillow
+img2pdf
